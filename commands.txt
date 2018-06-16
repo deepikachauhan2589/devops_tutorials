@@ -1,0 +1,7 @@
+hello here are list of commands used in git
+
+git init
+
+git pull origin master
+
+git push
